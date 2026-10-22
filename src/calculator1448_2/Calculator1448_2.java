@@ -25,6 +25,7 @@ public class Calculator1448_2 {
         return x-y;
     }
     
+    // divide comment
     public static int divide(int x, int y) {
         return x/y;
     }
