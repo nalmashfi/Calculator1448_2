@@ -24,4 +24,8 @@ public class Calculator1448_2 {
     public static int subtract(int x, int y) {
         return x-y;
     }
+    
+    public static int divide(int x, int y) {
+        return x/y;
+    }
 }
