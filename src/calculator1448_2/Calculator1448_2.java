@@ -5,7 +5,7 @@
 package calculator1448_2;
 
 /**
- *
+ * A simple calculator
  * @author nalma
  */
 public class Calculator1448_2 {
