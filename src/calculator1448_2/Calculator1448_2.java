@@ -18,6 +18,7 @@ public class Calculator1448_2 {
     }
     
     public static int add (int x, int y) {
+        // fix a bug
         return x+y;
     }
     
